@@ -1,4 +1,4 @@
-# blog.mikhail-nazarov.ru
+# Блог mikhail-nazarov.ru
 
 Персональный блог о Rust, AI, gamedev и инструментах разработки.
 
